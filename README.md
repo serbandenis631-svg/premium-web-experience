@@ -1,18 +1,18 @@
-VYTRON — Premium E-Commerce Frontend
+# VYTRON — Premium E-Commerce Frontend
 
-A modern, responsive e-commerce frontend concept designed for a fictional premium sports nutrition brand.
+A modern, responsive e-commerce frontend concept
+designed for a fictional premium sports nutrition brand.
 
-Live Website Demo | GitHub Repository
+[Live Website Demo](https://serbandenis631-svg.github.io/premium-web-experience/)
 
-About the Project
-
+## About the Project
 VYTRON is an interactive web development project focused on modern frontend design, responsive layouts, and JavaScript-powered shopping experiences.
 
 The goal is to explore how visually engaging product pages, intuitive interactions, and lightweight animations can improve the user experience.
 
 This project is an early-stage portfolio demo that will continue to evolve.
 
-Key Features
+## Key Features
 
 Premium UI Design: Modern typography, contrasting colors, and visually engaging layouts.
 
@@ -30,7 +30,7 @@ Interactive FAQ: Expandable sections for product information.
 
 Demo Checkout: Simulated checkout interaction without real transactions or personal data collection.
 
-Technologies Used
+## Technologies Used
 
 HTML5
 
@@ -58,7 +58,7 @@ Open index.html in your browser.
 
 You can also use Visual Studio Code with the Live Server extension.
 
-Development Roadmap
+## Development Roadmap
 
 Future improvements planned for this project:
 
@@ -96,7 +96,7 @@ VYTRON is a fictional brand created for demonstration and educational purposes.
 
 Products, pricing, promotions, and customer reviews are illustrative. No real purchases, payments, or deliveries are available.
 
-Author
+## Author
 
 Denis Șerban
 
